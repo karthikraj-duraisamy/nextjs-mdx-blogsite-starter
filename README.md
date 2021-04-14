@@ -3,7 +3,6 @@
 This project serves as a starter for blog website using mdx and nextJS with Reading Progress. Hosted in Vercel [https://nextjs-mdx-blogsite-starter.vercel.app](https://nextjs-mdx-blogsite-starter.vercel.app).
 
 ## Overview
-
 There are a lot of ways to start a simple blog based static webiste. Over the years, even I have changed my [personal website](http://karthikraj.net) from wordpress, django, hugo and jekyll. There are other options like Gatsby, NextJS, NuxtJS and many other. Here I just wanted to get the starter app setup to develop the blog based websites.
 
 ## Running Locally
